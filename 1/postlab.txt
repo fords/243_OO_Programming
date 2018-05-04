@@ -1,0 +1,10 @@
+1 error occurs when compile. The class name is different from filename
+2 error occurs when compile    .The 'in' is a string and it needs to be changed to integer 
+3                   run.  The zero cannot be in the denominator.
+4                   compile. The y should be declared as int when it is passed in the min method.
+5                   compile. if statement is wrong,then it doesn't return anything .should include else to return integer type.
+6                   run. There is nothing in the arraylist. you cannot access empty arraylist.
+7                   compile. the char is declared like char ch='a' . ch="a" is for string type.
+8                   compile. j is the integer type but it doesn't store anything. 
+9                   compile. float should be double
+10                  run.  The index is out of range. if it is 11 instead of 12. it can print "world"
